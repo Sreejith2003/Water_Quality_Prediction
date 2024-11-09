@@ -54,3 +54,5 @@ The AI Water Quality Prediction system is designed to monitor river water qualit
 - Local community Forum
   
 - Feedback from the user
+
+
