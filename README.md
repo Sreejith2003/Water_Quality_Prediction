@@ -62,11 +62,11 @@ Here are some visuals to demonstrate the Water Quality Prediction system:
 
 6.![Screenshot 2024-11-09 210147](https://github.com/user-attachments/assets/42ccdd88-0a22-4c44-9ee6-e8b98b786af0)
 
+
 # Demo Video
 
-## Demo Video
+[Click here to watch the demo video](https://github.com/Sreejith2003/Water_Quality_Prediction/blob/main/VultrHackathon%20(1).mp4)
 
-[![Watch the demo video]](Water_Quality_Prediction/VultrHackathon (1).mp4)
 
 # Future Developments
 
