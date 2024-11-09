@@ -66,7 +66,7 @@ Here are some visuals to demonstrate the Water Quality Prediction system:
 
 ## Demo Video
 
-[![Watch the demo video]](videos/VultrHackathon.mp4)
+[![Watch the demo video]](VultrHackathon (1).mp4")
 
 
 
