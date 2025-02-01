@@ -14,7 +14,7 @@ app = FastAPI()
 app.mount("/css", StaticFiles(directory="css"), name="css")
 templates = Jinja2Templates(directory="./vendor/templates")
 
-csv_path = "C:\\xampp\\htdocs\\Guvi_intern\\water_dataX.csv"
+csv_path = "PATH_TO_YOUR_FILE"
 
 def load_data():
     try:
